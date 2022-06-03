@@ -13,4 +13,5 @@
 }
 .mole{
     background-image: url("./images/whacamole.jpg");
+    background-size: cover;
 }
